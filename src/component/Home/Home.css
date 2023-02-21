@@ -1,0 +1,15 @@
+.home_container {
+    background: var(--bg-color);
+    
+    padding: 20px;
+}
+
+.home_heading {
+    color: var(--heading-color);
+}
+
+.home_content {
+    color: var(--text-color);
+}
+
+

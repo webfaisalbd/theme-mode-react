@@ -1,0 +1,15 @@
+.footer_container {
+    background: var(--bg-color);
+    
+    padding: 20px;
+}
+
+.footer_heading {
+    color: var(--heading-color);
+}
+
+.footer_content {
+    color: var(--text-color);
+}
+
+
